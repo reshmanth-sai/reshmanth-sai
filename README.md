@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Naidu%20Reshmanth%20Sai&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Offline-First%20Multimodal%20Intelligence%20%7C%20Cryptographic%20Verification&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
-</div>
+
+# Hi there, I'm Naidu Reshmanth Sai 👋
+### 🎓 Computer Science & AI Systems Engineer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Offline-First+Multimodal+AI+Systems;Cryptographic+Verification+%26+Audit+Chains;Deterministic+Patient+Safety+Engines;Full-Stack+Architectures+%26+Edge+Inference)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/reshmanth-sai">
-    <img src="https://komarev.com/ghpvc/?username=reshmanth-sai&label=Profile%20Views&color=0e75c9&style=flat-square" alt="Profile Views" />
-  </a>
   <a href="https://www.linkedin.com/in/reshmanth-sai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/reshmanth-sai">
+  <a href="https://github.com/reshmanth-sai" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%26%20Edge%20Intelligence-00C7B7?style=flat-square" alt="Focus" />
@@ -18,173 +18,165 @@
 
 ---
 
-### 👨‍💻 About Me
+</div>
+
+## 📌 About Me
 
 I am a Computer Science Engineer and AI Systems builder focused on **offline-first multimodal intelligence**, **tamper-evident cryptographic platforms**, and **high-performance full-stack architectures**.
 
 My work bridges statistical machine learning, local edge inference (Google Gemma 3 / local Ollama pipelines), deterministic safety guardrails, and verifiable distributed software engineering.
 
-- 🔨 **Currently Building**: [MediGem](https://github.com/reshmanth-sai/MediGem) — an offline-first multimodal AI clinical co-pilot featuring local inference and `<0.3ms` deterministic emergency safety gating.
-- 🔬 **Active Research**: Tamper-evident per-issuer cryptographic audit chains ([Provenance](https://github.com/reshmanth-sai/Provenance)), zero-cloud local edge LLM reasoning, and deterministic triage guardrails.
-- 🎯 **Core Areas**: AI & ML Systems · Offline Edge Computing · Cryptographic Verification · Multimodal Vision & OCR · Scalable Full-Stack Engineering.
+- 🔨 **Currently Building**: **[MediGem](https://github.com/reshmanth-sai/MediGem)** — an offline-first multimodal AI clinical co-pilot featuring local inference and `<0.3ms` deterministic emergency safety gating.
+- 🔬 **Currently Exploring**: Tamper-evident per-issuer cryptographic audit chains (**[Provenance](https://github.com/reshmanth-sai/Provenance)**), zero-cloud local edge LLM reasoning, and deterministic triage guardrails.
+- 🎯 **Areas of Interest**: AI & ML Systems · Offline Edge Computing · Cryptographic Verification · Multimodal Vision & OCR · Scalable Full-Stack Engineering.
 
 ---
 
-### 💎 Featured Flagship: [MediGem — Multimodal Offline-First AI Co-Pilot](https://github.com/reshmanth-sai/MediGem)
+## 🚀 Featured Flagship Project
+
+### 💎 [MediGem — Multimodal Offline-First AI Co-Pilot](https://github.com/reshmanth-sai/MediGem)
 
 > **Multimodal, offline-first clinical decision support co-pilot engineered for rural healthcare facilities with zero cloud dependency.**
 
-Front-line healthcare workers in remote regions frequently evaluate critical diagnostic inputs (blood lab panels, 12-lead ECG strips, prescription scans, wound imagery) without specialist physician access or stable internet connectivity. MediGem provides immediate, offline clinical intelligence while enforcing strict deterministic patient safety boundaries.
+*Front-line healthcare workers in remote regions frequently evaluate critical diagnostic inputs (blood lab panels, 12-lead ECG strips, prescription scans, wound imagery) without specialist physician access or stable internet connectivity. MediGem provides immediate, offline clinical intelligence while enforcing strict deterministic patient safety boundaries.*
 
+- **Offline Multimodal Perception**: Integrates OpenCV visual quality validation (blur detection, illumination gating) with Tesseract OCR to extract structured telemetry and clinical context directly on edge hardware.
+- **Local Gemma 3 4B Reasoning Engine**: Executes 100% local inference via Ollama without transmitting patient records to third-party cloud APIs, guaranteeing patient data privacy and zero-connectivity autonomy.
+- **Sub-Millisecond Deterministic Safety Interceptor**: Custom deterministic rule engine that intercepts acute emergency presentations (e.g. ST-elevation myocardial infarction, stroke signs) in `< 0.3ms` *before* LLM inference is triggered.
+- **Immutable Clinical Summaries & Triage**: Automatically generates worker-facing clinical observations, reasoning transparency cards, and patient-ready referral memorandums.
+
+```text
+🧪 56 / 56 Tests Passing (100% Green)  │  ⚡ <0.3ms Safety Intercept  │  🔒 100% Local Inference  │  💎 Gemma 3 4B
 ```
-🧪 56 / 56 Tests Passing (100% Green) │ ⚡ <0.3ms Intercept Latency │ 🔒 100% Offline / Zero Cloud Leak │ 💎 Gemma 3 4B Local
-```
 
-#### Key Architecture & Capabilities:
-- **Offline Multimodal Perception Pipeline**: Integrates OpenCV visual quality validation (blur detection, illumination gating) with Tesseract OCR to extract structured telemetry and clinical context directly from edge hardware.
-- **Local Gemma 3 4B Reasoning Engine**: Executes 100% local inference via Ollama without sending patient records to third-party cloud APIs, guaranteeing patient data privacy and total zero-connectivity autonomy.
-- **Sub-Millisecond Deterministic Safety Interceptor**: Custom deterministic rule engine that intercepts acute emergency presentations (e.g. ST-elevation myocardial infarction, stroke signs) in `< 0.3ms` *before* LLM inference is triggered, preventing diagnostic latency.
-- **Immutable Reasoning & Referral Summaries**: Automatically generates worker-facing clinical observations, reasoning transparency cards, and patient-ready referral memorandums.
-
-**Tech Stack**: `TypeScript` · `Google Gemma 3 4B` · `Ollama` · `Python` · `OpenCV` · `Tesseract OCR` · `Vite` · `React`  
+*Stack: TypeScript · Google Gemma 3 4B · Ollama · Python · OpenCV · Tesseract OCR · Vite · React*  
 👉 **[Explore the MediGem Repository ↗](https://github.com/reshmanth-sai/MediGem)**
 
 ---
 
-### 🛠️ Key Engineering & Research Projects
+## 🛠️ Strong Engineering & Research Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔒 <a href="https://github.com/reshmanth-sai/Provenance">Provenance</a></h3>
-      <p><strong>Tamper-evident credential verification platform with cryptographic audit chains.</strong></p>
-      <ul>
-        <li>Multi-role verification workflow (Candidate, Issuer, Recruiter, Admin) with per-issuer SHA-256 cryptographic hash chains.</li>
-        <li>Automated OCR document parsing and Poppler PDF rasterization with tamper detection.</li>
-        <li>Containerized backend backed by PostgreSQL 16 relational integrity.</li>
-      </ul>
-      <p><code>TypeScript</code> · <code>Node.js</code> · <code>PostgreSQL 16</code> · <code>Docker</code> · <code>Tesseract OCR</code> · <code>Poppler</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💰 <a href="https://github.com/reshmanth-sai/TaxSense">TaxSense</a></h3>
-      <p><strong>AI-powered tax operating system and deduction optimization engine.</strong></p>
-      <ul>
-        <li>Dual-regime (Old vs. New) tax liability comparative analyzer powered by Google Gemini 2.0.</li>
-        <li>Automated 80C, 80D, and HRA deduction simulations with deterministic rule checking.</li>
-        <li>Reactive, dark-mode financial dashboard built on modern React 19.</li>
-      </ul>
-      <p><code>TypeScript</code> · <code>React 19</code> · <code>Google Gemini 2.0</code> · <code>Tailwind CSS</code> · <code>Vite</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/reshmanth-sai/SortArena">SortArena</a></h3>
-      <p><strong>Algorithmic benchmarking arena & real-time sorting visualizer.</strong></p>
-      <ul>
-        <li>High-performance interactive visualization engine rendering step-by-step array state progressions.</li>
-        <li>Real-time Big-O computational metrics, memory overhead tracking, and head-to-head algorithm comparisons.</li>
-        <li>Non-blocking animation pipeline decoupled from main thread execution.</li>
-      </ul>
-      <p><code>JavaScript</code> · <code>HTML5 Canvas</code> · <code>CSS3 Animations</code> · <code>Web Workers</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/reshmanth-sai/Project-Zenith">Project Zenith</a></h3>
-      <p><strong>"The Celestial Eye" — Space telemetry & astronomical computing platform.</strong></p>
-      <ul>
-        <li>Interactive astronomical simulation and space telemetry computation engine.</li>
-        <li>Planetary orbit trajectory mapping and real-time celestial coordinate tracking.</li>
-        <li>Modular UI architecture optimized for responsive vector and canvas rendering.</li>
-      </ul>
-      <p><code>TypeScript</code> · <code>React</code> · <code>Canvas API</code> · <code>Three.js</code> · <code>REST APIs</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/reshmanth-sai/revenueguard">RevenueGuard</a></h3>
-      <p><strong>Real-time revenue leakage & operational anomaly detection engine.</strong></p>
-      <ul>
-        <li>Machine learning telemetry service detecting transactional deviations and fraudulent billing anomalies.</li>
-        <li>Asynchronous FastAPI microservice architecture with automated validation endpoints.</li>
-        <li>Statistical anomaly scoring across high-dimensional transaction data.</li>
-      </ul>
-      <p><code>Python</code> · <code>FastAPI</code> · <code>Scikit-Learn</code> · <code>Pandas</code> · <code>NumPy</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚦 <a href="https://github.com/reshmanth-sai/TrafficVision">TrafficVision</a></h3>
-      <p><strong>Intelligent transport telemetry & edge computer vision system.</strong></p>
-      <ul>
-        <li>Real-time vehicle bounding-box detection, lane boundary tracking, and density telemetry estimation.</li>
-        <li>Optimized frame-by-frame video processing pipeline using OpenCV and deep convolutional vision models.</li>
-        <li>Telemetry logging for traffic flow analytics and congestion prediction.</li>
-      </ul>
-      <p><code>Python</code> · <code>OpenCV</code> · <code>PyTorch / YOLO</code> · <code>NumPy</code></p>
-    </td>
-  </tr>
-</table>
+- 🔒 **[Provenance](https://github.com/reshmanth-sai/Provenance)**  
+  *Tamper-evident credential verification platform with cryptographic audit chains.*  
+  Multi-role verification workflow (Candidate, Issuer, Recruiter, Admin) with per-issuer SHA-256 cryptographic hash chains. Automated OCR document parsing and Poppler PDF rasterization with tamper detection backed by PostgreSQL 16 relational integrity.  
+  *Stack: TypeScript · Node.js · PostgreSQL 16 · Docker · Tesseract OCR · Poppler · REST APIs*
 
-<details>
-  <summary><strong>🔍 More Open Source & Research Works (Click to expand)</strong></summary>
-  <br />
-  <ul>
-    <li>📰 <strong><a href="https://github.com/reshmanth-sai/AI-Powered-Fake-News-Detection">AI Fake News & Misinformation Classifier</a></strong>: NLP classification pipeline utilizing TF-IDF n-gram feature extraction and ensemble classifiers for high-accuracy text authenticity verification. (<code>Python</code> · <code>NLP</code> · <code>Scikit-Learn</code> · <code>NLTK</code>)</li>
-    <li>🎣 <strong><a href="https://github.com/reshmanth-sai/AI-Driven-Phishing-Email-Detection-NLP">Phishing Email Detection NLP</a></strong>: Machine learning pipeline analyzing linguistic patterns and header markers to detect malicious social engineering attacks. (<code>Python</code> · <code>NLP</code> · <code>Jupyter</code>)</li>
-    <li>🔬 <strong><a href="https://github.com/reshmanth-sai/MVCRT">MVCRT — Multi-View Representation Learning</a></strong>: Exploratory deep learning notebooks investigating multi-view feature representations and contrastive vision modeling. (<code>Python</code> · <code>PyTorch</code>)</li>
-    <li>📊 <strong><a href="https://github.com/reshmanth-sai/BigQuery-Release-Hub">BigQuery Release Hub</a></strong>: Clean, curated telemetry dashboard tracking release notes and analytics updates for BigQuery data stacks. (<code>CSS3</code> · <code>JavaScript</code> · <code>Web APIs</code>)</li>
-  </ul>
+- 💰 **[TaxSense](https://github.com/reshmanth-sai/TaxSense)**  
+  *AI-powered tax operating system and deduction optimization engine.*  
+  Dual-regime (Old vs. New) tax liability comparative analyzer powered by Google Gemini 2.0. Implemented real-time 80C, 80D, and HRA deduction simulations with deterministic rule checking and a reactive dark-mode financial dashboard.  
+  *Stack: TypeScript · React 19 · Google Gemini 2.0 · Tailwind CSS · Vite*
+
+- ⚡ **[SortArena](https://github.com/reshmanth-sai/SortArena)**  
+  *Algorithmic benchmarking arena & real-time sorting visualizer.*  
+  High-performance interactive visualization engine rendering step-by-step array state progressions, real-time Big-O computational metrics, memory overhead tracking, and a non-blocking animation pipeline decoupled from main thread execution.  
+  *Stack: JavaScript · HTML5 Canvas · CSS3 Animations · Web Workers*
+
+- 👁️ **[Project Zenith](https://github.com/reshmanth-sai/Project-Zenith)**  
+  *The Celestial Eye — Space telemetry & astronomical computing platform.*  
+  Interactive astronomical simulation and space telemetry computation engine featuring planetary orbit trajectory mapping, real-time celestial coordinate tracking, and modular vector canvas rendering.  
+  *Stack: TypeScript · React · Canvas API · Three.js · REST APIs*
+
+- 🛡️ **[RevenueGuard](https://github.com/reshmanth-sai/revenueguard)**  
+  *Real-time revenue leakage & operational anomaly detection engine.*  
+  Machine learning telemetry service detecting transactional deviations and fraudulent billing anomalies across high-dimensional transaction data using statistical anomaly scoring.  
+  *Stack: Python · FastAPI · Scikit-Learn · Pandas · NumPy*
+
+- 🚦 **[TrafficVision](https://github.com/reshmanth-sai/TrafficVision)**  
+  *Intelligent transport telemetry & edge computer vision system.*  
+  Real-time vehicle bounding-box detection, lane boundary tracking, and density telemetry estimation pipeline using OpenCV and deep convolutional vision models.  
+  *Stack: Python · OpenCV · PyTorch / YOLO · NumPy*
+
+- 📰 **[AI Misinformation & Threat Classifiers](https://github.com/reshmanth-sai/AI-Powered-Fake-News-Detection)**  
+  *NLP classification pipelines for misinformation verification and phishing threat analysis.*  
+  High-accuracy NLP classifiers utilizing TF-IDF n-gram feature extraction, linguistic pattern analysis, and ensemble classifiers for text authenticity and email security analysis.  
+  *Stack: Python · NLP · Scikit-Learn · NLTK · Transformers · Jupyter*
+
+---
+
+## 💥 Tech Stack
+
+<details open>
+<summary><b>🧠 AI, Machine Learning & Vision</b></summary>
+<br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Google_Gemma_3-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Gemma 3" />
+  <img src="https://img.shields.io/badge/Google_Gemini_2.0-8E75C2?style=flat-square&logo=google&logoColor=white" alt="Google Gemini 2.0" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Tesseract_OCR-005571?style=flat-square" alt="Tesseract OCR" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Systems</b></summary>
+<br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 16" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" />
+</p>
+</details>
+
+<details open>
+<summary><b>🌐 Frontend & Web Development</b></summary>
+<br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white" alt="Mantine" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Developer Tooling</b></summary>
+<br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+</p>
 </details>
 
 ---
 
-### 🧰 Technical Arsenal
+## 📊 GitHub Analytics
 
 <div align="center">
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **AI, ML & Vision** | ![Google Gemma](https://img.shields.io/badge/Google%20Gemma%203-4285F4?style=flat-square&logo=google&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini%202.0-8E75C2?style=flat-square&logo=google&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-005571?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Frontend & UI/UX** | ![React 19](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2016-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square) |
-| **DevOps & Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=reshmanth-sai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=reshmanth-sai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=reshmanth-sai&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak Stats" />
+  <br><br>
+  <img src="https://ghchart.rshah.org/38BDF8/reshmanth-sai" alt="Reshmanth Sai's Contribution Chart" />
 </div>
 
 ---
 
-### 📊 GitHub Activity & Analytics
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=reshmanth-sai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="Reshmanth Sai's GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmanth-sai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=reshmanth-sai&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <p><i>💡 "Engineering resilient, offline-first intelligent systems and verifiable software architectures."</i></p>
+  <img src="https://komarev.com/ghpvc/?username=reshmanth-sai&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
-
----
-
-### 🤝 Connect & Collaborate
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/reshmanth-sai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/reshmanth-sai" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20@reshmanth--sai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <em>💡 "Engineering resilient, offline-first intelligent systems and verifiable software architectures."</em>
-</p>
