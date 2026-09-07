@@ -47,7 +47,7 @@ My work bridges statistical machine learning, local edge inference (Google Gemma
 
 ```text
 🧪 56 / 56 Tests Passing (100% Green)  │  ⚡ <0.3ms Safety Intercept
-🔒 100% Local Inference (Zero Leak)    │  💎 Google Gemma 3 4B
+🔒 100% Local Inference (Zero Leak)    │  💎 Google Gemma 3 4B Local
 ```
 
 *Stack: TypeScript · Google Gemma 3 4B · Ollama · Python · OpenCV · Tesseract OCR · Vite · React*  
@@ -62,30 +62,42 @@ My work bridges statistical machine learning, local edge inference (Google Gemma
   Multi-role verification workflow (Candidate, Issuer, Recruiter, Admin) with per-issuer SHA-256 cryptographic hash chains. Implemented automated OCR document parsing, Poppler PDF rasterization with tamper detection, and containerized backend with PostgreSQL 16 relational integrity.  
   *Stack: TypeScript · Node.js · PostgreSQL 16 · Docker · Tesseract OCR · Poppler · REST APIs*
 
+<br>
+
 - 💰 **[TaxSense](https://github.com/reshmanth-sai/TaxSense)**  
   *AI-powered tax operating system and deduction optimization engine.*  
   Dual-regime (Old vs. New) tax liability comparative analyzer powered by Google Gemini 2.0. Implemented real-time 80C, 80D, and HRA deduction simulations with deterministic rule checking and a reactive dark-mode financial command center.  
   *Stack: TypeScript · React 19 · Google Gemini 2.0 · Tailwind CSS · Vite*
+
+<br>
 
 - ⚡ **[SortArena](https://github.com/reshmanth-sai/SortArena)**  
   *Algorithmic benchmarking arena & real-time sorting visualizer.*  
   High-performance interactive visualization engine rendering step-by-step array state progressions, real-time Big-O computational metrics, and memory overhead tracking with a non-blocking animation pipeline decoupled from main thread execution.  
   *Stack: JavaScript · HTML5 Canvas · CSS3 Animations · Web Workers*
 
+<br>
+
 - 👁️ **[Project Zenith](https://github.com/reshmanth-sai/Project-Zenith)**  
   *The Celestial Eye — Space telemetry & astronomical computing platform.*  
   Interactive astronomical simulation and space telemetry computation engine featuring planetary orbit trajectory mapping, real-time celestial coordinate tracking, and modular vector canvas rendering.  
   *Stack: TypeScript · React · Canvas API · Three.js · REST APIs*
+
+<br>
 
 - 🛡️ **[RevenueGuard](https://github.com/reshmanth-sai/revenueguard)**  
   *Real-time revenue leakage & operational anomaly detection engine.*  
   Machine learning telemetry service detecting transactional deviations and fraudulent billing anomalies across high-dimensional transaction data using statistical anomaly scoring and FastAPI endpoints.  
   *Stack: Python · FastAPI · Scikit-Learn · Pandas · NumPy*
 
+<br>
+
 - 🚦 **[TrafficVision](https://github.com/reshmanth-sai/TrafficVision)**  
   *Intelligent transport telemetry & edge computer vision system.*  
   Real-time vehicle bounding-box detection, lane boundary tracking, and density telemetry estimation pipeline using OpenCV and deep convolutional vision models.  
   *Stack: Python · OpenCV · PyTorch / YOLO · NumPy*
+
+<br>
 
 - 📰 **[AI Misinformation & Threat Classifiers](https://github.com/reshmanth-sai/AI-Powered-Fake-News-Detection)**  
   *NLP classification pipelines for misinformation verification and phishing threat analysis.*  
@@ -164,17 +176,31 @@ My work bridges statistical machine learning, local edge inference (Google Gemma
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Key Highlights & Metrics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=reshmanth-sai&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak Stats" />
-  <br><br>
-  <img src="https://ghchart.rshah.org/38BDF8/reshmanth-sai" alt="Reshmanth Sai's Contribution Chart" />
-</div>
+| Metric | Achievement | Impact Area |
+| :--- | :--- | :--- |
+| 💎 **MediGem Intercept** | **`< 0.3ms`** | Deterministic emergency triage interceptor prior to LLM invocation |
+| 🧪 **Verification Coverage** | **100% Green** (56/56 Tests) | Complete unit and integration verified offline perception suite |
+| 🔒 **Cryptographic Chains** | **SHA-256 Provenance** | Per-issuer tamper-evident credential audit immutability |
+| 💰 **TaxSense Optimization** | **Dual-Regime Engine** | Automated 80C, 80D & HRA tax optimization with Gemini 2.0 |
+| ⚡ **SortArena Visualizer** | **Decoupled Main Thread** | Non-blocking Big-O computational telemetry & animation |
+| 📈 **Annual Contributions** | **440+ Commits** | Continuous shipping across offline AI, vision & full-stack platforms |
 
 ---
 
 <div align="center">
   <p><i>💡 "Engineering resilient, offline-first intelligent systems and verifiable software architectures."</i></p>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/reshmanth-sai" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/reshmanth-sai" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Follow%20@reshmanth--sai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
   <img src="https://komarev.com/ghpvc/?username=reshmanth-sai&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
