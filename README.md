@@ -46,7 +46,8 @@ My work bridges statistical machine learning, local edge inference (Google Gemma
 - **Immutable Clinical Summaries & Triage**: Automatically generates worker-facing clinical observations, reasoning transparency cards, and patient-ready referral memorandums.
 
 ```text
-🧪 56 / 56 Tests Passing (100% Green)  │  ⚡ <0.3ms Safety Intercept  │  🔒 100% Local Inference  │  💎 Gemma 3 4B
+🧪 56 / 56 Tests Passing (100% Green)  │  ⚡ <0.3ms Safety Intercept
+🔒 100% Local Inference (Zero Leak)    │  💎 Google Gemma 3 4B
 ```
 
 *Stack: TypeScript · Google Gemma 3 4B · Ollama · Python · OpenCV · Tesseract OCR · Vite · React*  
@@ -58,17 +59,17 @@ My work bridges statistical machine learning, local edge inference (Google Gemma
 
 - 🔒 **[Provenance](https://github.com/reshmanth-sai/Provenance)**  
   *Tamper-evident credential verification platform with cryptographic audit chains.*  
-  Multi-role verification workflow (Candidate, Issuer, Recruiter, Admin) with per-issuer SHA-256 cryptographic hash chains. Automated OCR document parsing and Poppler PDF rasterization with tamper detection backed by PostgreSQL 16 relational integrity.  
+  Multi-role verification workflow (Candidate, Issuer, Recruiter, Admin) with per-issuer SHA-256 cryptographic hash chains. Implemented automated OCR document parsing, Poppler PDF rasterization with tamper detection, and containerized backend with PostgreSQL 16 relational integrity.  
   *Stack: TypeScript · Node.js · PostgreSQL 16 · Docker · Tesseract OCR · Poppler · REST APIs*
 
 - 💰 **[TaxSense](https://github.com/reshmanth-sai/TaxSense)**  
   *AI-powered tax operating system and deduction optimization engine.*  
-  Dual-regime (Old vs. New) tax liability comparative analyzer powered by Google Gemini 2.0. Implemented real-time 80C, 80D, and HRA deduction simulations with deterministic rule checking and a reactive dark-mode financial dashboard.  
+  Dual-regime (Old vs. New) tax liability comparative analyzer powered by Google Gemini 2.0. Implemented real-time 80C, 80D, and HRA deduction simulations with deterministic rule checking and a reactive dark-mode financial command center.  
   *Stack: TypeScript · React 19 · Google Gemini 2.0 · Tailwind CSS · Vite*
 
 - ⚡ **[SortArena](https://github.com/reshmanth-sai/SortArena)**  
   *Algorithmic benchmarking arena & real-time sorting visualizer.*  
-  High-performance interactive visualization engine rendering step-by-step array state progressions, real-time Big-O computational metrics, memory overhead tracking, and a non-blocking animation pipeline decoupled from main thread execution.  
+  High-performance interactive visualization engine rendering step-by-step array state progressions, real-time Big-O computational metrics, and memory overhead tracking with a non-blocking animation pipeline decoupled from main thread execution.  
   *Stack: JavaScript · HTML5 Canvas · CSS3 Animations · Web Workers*
 
 - 👁️ **[Project Zenith](https://github.com/reshmanth-sai/Project-Zenith)**  
@@ -78,7 +79,7 @@ My work bridges statistical machine learning, local edge inference (Google Gemma
 
 - 🛡️ **[RevenueGuard](https://github.com/reshmanth-sai/revenueguard)**  
   *Real-time revenue leakage & operational anomaly detection engine.*  
-  Machine learning telemetry service detecting transactional deviations and fraudulent billing anomalies across high-dimensional transaction data using statistical anomaly scoring.  
+  Machine learning telemetry service detecting transactional deviations and fraudulent billing anomalies across high-dimensional transaction data using statistical anomaly scoring and FastAPI endpoints.  
   *Stack: Python · FastAPI · Scikit-Learn · Pandas · NumPy*
 
 - 🚦 **[TrafficVision](https://github.com/reshmanth-sai/TrafficVision)**  
@@ -88,7 +89,7 @@ My work bridges statistical machine learning, local edge inference (Google Gemma
 
 - 📰 **[AI Misinformation & Threat Classifiers](https://github.com/reshmanth-sai/AI-Powered-Fake-News-Detection)**  
   *NLP classification pipelines for misinformation verification and phishing threat analysis.*  
-  High-accuracy NLP classifiers utilizing TF-IDF n-gram feature extraction, linguistic pattern analysis, and ensemble classifiers for text authenticity and email security analysis.  
+  High-accuracy NLP classifiers utilizing TF-IDF n-gram feature extraction, linguistic pattern analysis, and ensemble classifiers for text authenticity verification and email security triage.  
   *Stack: Python · NLP · Scikit-Learn · NLTK · Transformers · Jupyter*
 
 ---
@@ -166,9 +167,6 @@ My work bridges statistical machine learning, local edge inference (Google Gemma
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=reshmanth-sai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=reshmanth-sai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  <br><br>
   <img src="https://streak-stats.demolab.com/?user=reshmanth-sai&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak Stats" />
   <br><br>
   <img src="https://ghchart.rshah.org/38BDF8/reshmanth-sai" alt="Reshmanth Sai's Contribution Chart" />
