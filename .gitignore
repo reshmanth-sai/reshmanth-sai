@@ -27,4 +27,5 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
-*.swo
+# Screenshots / Artifacts
+profile_screenshot.png
